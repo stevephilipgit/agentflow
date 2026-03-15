@@ -135,15 +135,6 @@ agentflow/
 
 **Planner returns invalid JSON** → JSON extracted with indexOf/lastIndexOf, not regex
 
-## 📊 Project Level
-
-| Dimension           | Level | Notes                              |
-|--------------------|-------|------------------------------------|
-| Portfolio Impact    | 95%   | Strongest AI project you can show  |
-| Industrial Grade    | 50%   | Needs auth + DB to ship            |
-| Interview Value     | 90%   | Explains real agentic AI systems   |
-| Code Complexity     | 65%   | Advanced async patterns            |
-
 ---
 
 Built with ⚡ by AgentFlow · Powered by LLaMA 3.3 70B via Groq
